@@ -1,6 +1,11 @@
 # Hola, Mi nombre es Gabriel Gerardo Beltran Medina 👋
 #### Usuario de Github, GabrielBeltran7
 
+#### Quien Soy?
+Soy Ingeniero de Sistemas y Desarrollador web Full Stack con sólidos conocimientos tanto en Front-end como en Back-end, obtenidos a través del programa de formación en Soy Henry. Destaco por mi habilidad para colaborar eficazmente en equipos y crear soluciones de software completas. Mi experiencia en Front-end incluye tecnologías como ReactJS, React Redux, React CSS y JavaScript. En el Back-end, tengo experiencia en Node.js, SQL, Sequelize, Express, MongoDB y Firebase. Además, poseo conocimientos en metodologías ágiles, GIT, estructuras de datos y algoritmos. Mi idioma nativo es el Español.
+datos de contacto: +573132315212
+correo: gabrielbeltranmedina@gmail.com
+
 <!--
 **GabrielBeltran7/GabrielBeltran7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
