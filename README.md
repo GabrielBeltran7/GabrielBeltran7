@@ -1,4 +1,4 @@
-### Hola, Mi nombre es Gabriel Gerardo Beltran Medina 👋
+# Hola, Mi nombre es Gabriel Gerardo Beltran Medina 👋
 # Usuario de Github, GabrielBeltran7
 
 <!--
