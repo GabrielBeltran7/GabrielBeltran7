@@ -12,6 +12,9 @@
 #### Tambien me dirigo a Agengias Digitales para desarrollar sitios web y aplicaciones para clientes. Esto me permitiría trabajar en una variedad de proyectos y ganar experiencia rápida en diferentes tecnologías y nichos.
 #### A empresas de Desarrollo de aplicaciones móviles, para expandir mis habilidades, y complementar un conjunto de habilidades como desarrollador de aplicaciones Moviles.
 
+#### Tecnologias que uso-
+####  | HTML | CSS | JavaScript | ReactJS | Redux | NodeJS | Express | NoSQL| SQL | Git| react native | firebase | redux | github
+
 <!--
 **GabrielBeltran7/GabrielBeltran7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
